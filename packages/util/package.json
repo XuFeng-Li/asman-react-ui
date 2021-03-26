@@ -1,17 +1,17 @@
 {
-  "name": "ar-util",
+  "name": "@ar/util",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "lucky1204 <1125105110@qq.com>",
   "homepage": "https://github.com/XuFeng-Li/asman-react-ui#readme",
   "license": "ISC",
-  "main": "lib/ar-util.js",
+  "main": "src/index.tsx",
   "directories": {
-    "lib": "lib",
+    "lib": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src"
   ],
   "repository": {
     "type": "git",

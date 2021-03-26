@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const arUtil = require('ar-util');
+const index = require('ar-util');
 
 // TODO: DEMONSTRATE API
 ```

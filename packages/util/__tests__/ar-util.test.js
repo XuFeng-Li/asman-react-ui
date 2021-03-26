@@ -2,6 +2,6 @@
 
 const arUtil = require('..');
 
-describe('ar-util', () => {
+describe('util', () => {
     it('needs tests');
 });
