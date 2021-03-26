@@ -1,0 +1,14 @@
+.index {
+  text-align: center;
+  .li {
+    margin: 5px 0;
+    background: antiquewhite;
+    .liSubCon {
+      height: 40px;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: center;
+    }
+  }
+}
