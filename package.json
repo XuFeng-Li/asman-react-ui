@@ -2,6 +2,11 @@
   "name": "asman-react-ui",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/index.js",
+  "min": "dist/index.min.js",
+  "minName": "asman-react-ui",
+  "module": "dist/es/index.es.js",
+  "types": "dist/types",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

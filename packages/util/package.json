@@ -5,14 +5,19 @@
   "author": "lucky1204 <1125105110@qq.com>",
   "homepage": "https://github.com/XuFeng-Li/asman-react-ui#readme",
   "license": "ISC",
-  "main": "src/index.tsx",
+  "main": "dist/index.tsx",
+  "module": "dist/es/index.es.js",
+  "min": "dist/index.min.js",
+  "minName": "info",
+  "types": "dist/types",
+  "files": [
+    "src",
+    "dist"
+  ],
   "directories": {
     "lib": "src",
     "test": "__tests__"
   },
-  "files": [
-    "src"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/XuFeng-Li/asman-react-ui.git"
